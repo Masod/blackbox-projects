@@ -59,7 +59,19 @@ I'm a full-stack software engineer, AI strategist, and privacy-first tech builde
 > [GitHub](https://github.com/Masod)
 
 ---
+<!-- Top banner -->
+<img src="assets/banner.png" alt="Masod Samadi Projects Banner" width="100%">
 
+<!-- Project icons -->
+### ⚙️ Projects
+| Project | Logo |
+|--------|------|
+| RealEstate AI | ![RealEstate](assets/realestate_logo.png) |
+| InfoVault | ![InfoVault](assets/infovault_logo.png) |
+| Verbum AI | ![Verbum](assets/verbum_logo.png) |
+
+
+---
 ### Contact  
 Interested in collaboration or a demo? Reach out via LinkedIn or open an issue in any of the project repos.
 
