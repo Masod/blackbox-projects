@@ -55,8 +55,8 @@ Summarize, filter, and extract insight from local files — all securely and wit
 
 I'm a full-stack software engineer, AI strategist, and privacy-first tech builder. With 20+ years of experience, I specialize in designing scalable systems with a focus on clarity, efficiency, and trust.
 
-> [LinkedIn](https://www.linkedin.com/in/masodsamadi)  
-> [GitHub](https://github.com/masod)
+> [LinkedIn](https://www.linkedin.com/in/masod-samadi-58942b1a/))  
+> [GitHub](https://github.com/Masod)
 
 ---
 
