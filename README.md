@@ -1,4 +1,4 @@
-# Masod Samadi – Projects Overview
+# Masod – Projects Overview
 
 Welcome to my digital workshop — a space where performance, privacy, and purpose drive everything I build.
 
