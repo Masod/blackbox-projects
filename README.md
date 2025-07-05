@@ -21,7 +21,7 @@ A platform that helps identify homeowners most likely to sell — using real dat
 
 ---
 
-##  InfoVault
+##  InfoVault (ShieldScope)
 **Privacy-first activity monitoring for iOS/macOS**
 
 Built to track and display sensitive device events like mic, camera, and location access — in real time.
